@@ -1,0 +1,60 @@
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\bin\Debug\net6.0\Class.deps.json
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\bin\Debug\net6.0\Class.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\bin\Debug\net6.0\Class.pdb
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\obj\Debug\net6.0\Class.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\obj\Debug\net6.0\refint\Class.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\obj\Debug\net6.0\Class.pdb
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Class\obj\Debug\net6.0\ref\Class.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\bin\Debug\net6.0\Class.deps.json
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\bin\Debug\net6.0\Class.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\bin\Debug\net6.0\Class.pdb
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\refint\Class.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.pdb
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\ref\Class.dll
+C:\Users\User\Desktop\Gestion Imprimante\Class\bin\Debug\net6.0\Class.deps.json
+C:\Users\User\Desktop\Gestion Imprimante\Class\bin\Debug\net6.0\Class.dll
+C:\Users\User\Desktop\Gestion Imprimante\Class\bin\Debug\net6.0\Class.pdb
+C:\Users\User\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+C:\Users\User\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.dll
+C:\Users\User\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\refint\Class.dll
+C:\Users\User\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\Class.pdb
+C:\Users\User\Desktop\Gestion Imprimante\Class\obj\Debug\net6.0\ref\Class.dll
+E:\Stage\SIO2\Gestion Imprimante\Class\bin\Debug\net6.0\Class.deps.json
+E:\Stage\SIO2\Gestion Imprimante\Class\bin\Debug\net6.0\Class.dll
+E:\Stage\SIO2\Gestion Imprimante\Class\bin\Debug\net6.0\Class.pdb
+E:\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+E:\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+E:\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+E:\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+E:\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.dll
+E:\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\refint\Class.dll
+E:\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.pdb
+E:\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\ref\Class.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\bin\Debug\net6.0\Class.deps.json
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\bin\Debug\net6.0\Class.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\bin\Debug\net6.0\Class.pdb
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\refint\Class.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\Class.pdb
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Class\obj\Debug\net6.0\ref\Class.dll
