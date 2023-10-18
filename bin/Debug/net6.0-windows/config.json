@@ -1,0 +1,1 @@
+{"exclude":["**/bin","**/bower_components","**/jspm_packages","**/node_modules","**/obj","**/platforms"],"connection":{"Server":"172.16.0.12","DataBase":"gestionimprimante_v2","user":"admin2","password":"lhd62803_v2"}}
