@@ -1,0 +1,17 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "connection": {
+    "Server": "localhost",
+    "DataBase": "gestionimprimante",
+    "user": "root",
+    "password": ""
+  },
+  "Backup": { "Date": "2023-02-14" }
+}

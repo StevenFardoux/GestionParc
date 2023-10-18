@@ -1,0 +1,188 @@
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\DataBase.exe
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\DataBase.deps.json
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\DataBase.runtimeconfig.json
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\DataBase.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\DataBase.pdb
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\Class.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\bin\Debug\net6.0\Class.pdb
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfo.cs
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\DataBase.csproj.CopyComplete
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\DataBase.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\refint\DataBase.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\DataBase.pdb
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\DataBase.genruntimeconfig.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\DataBase\obj\Debug\net6.0\ref\DataBase.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.exe
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.deps.json
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.runtimeconfig.json
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.pdb
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\Class.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\Class.pdb
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfo.cs
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.CopyComplete
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\refint\DataBase.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.pdb
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.genruntimeconfig.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\ref\DataBase.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\MySqlBackup.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.exe
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.deps.json
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.runtimeconfig.json
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.pdb
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\MySqlBackup.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\Class.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\bin\Debug\net6.0\Class.pdb
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfo.cs
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.CopyComplete
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\refint\DataBase.dll
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.pdb
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.genruntimeconfig.cache
+C:\Users\User\Desktop\Gestion Imprimante\DataBase\obj\Debug\net6.0\ref\DataBase.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.exe
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.deps.json
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.runtimeconfig.json
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.pdb
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\MySql.Data.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\ZstdNet.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\MySqlBackup.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\Class.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\Class.pdb
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.AssemblyReference.cache
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfoInputs.cache
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfo.cs
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.CoreCompileInputs.cache
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.CopyComplete
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\refint\DataBase.dll
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.pdb
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.genruntimeconfig.cache
+E:\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\ref\DataBase.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.exe
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.deps.json
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.runtimeconfig.json
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\DataBase.pdb
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\MySql.Data.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\ZstdNet.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\MySqlBackup.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\Class.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\bin\Debug\net6.0\Class.pdb
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.AssemblyReference.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfoInputs.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfo.cs
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.CoreCompileInputs.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.csproj.CopyComplete
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\refint\DataBase.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.pdb
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\DataBase.genruntimeconfig.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\DataBase\obj\Debug\net6.0\ref\DataBase.dll
