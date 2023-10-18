@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion des cartouches d'ancres.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.addImpriante.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.container.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.empreint.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.Form1.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.gestionChangementCartouches.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.gestionLivraison.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.gestionParc.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.gestionStock.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.histoLivraison.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.Historique.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.ImpressionSalle.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.ImpressionRecap.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.modifInfo.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.pop_upbd.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.Properties.Resources.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion_des_cartouches_d_ancres.Recap.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion des cartouches d'ancres.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion des cartouches d'ancres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion des cartouches d'ancres.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion des cartouches d'ancres.AssemblyInfo.cs
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Release\net6.0-windows\win-x86\Gestion des cartouches d'ancres.csproj.CoreCompileInputs.cache
