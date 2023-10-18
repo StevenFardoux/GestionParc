@@ -1,0 +1,289 @@
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.AssemblyReference.cache
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Form1.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.GenerateResource.cache
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfoInputs.cache
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfo.cs
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CoreCompileInputs.cache
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\refint\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.exe
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.deps.json
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.runtimeconfig.json
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.genruntimeconfig.cache
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\ref\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.AssemblyReference.cache
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.container.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Form1.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionChangementCartouches.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionSalle.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionBase.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Recap.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.GenerateResource.cache
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfoInputs.cache
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfo.cs
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CoreCompileInputs.cache
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.exe
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.deps.json
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.runtimeconfig.json
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\refint\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.genruntimeconfig.cache
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\ref\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Historique.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionLivraison.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.histoLivraison.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.addImpriante.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Properties.Resources.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.etage.resources
+C:\Users\fardoux.steven\Documents\Gestion des cartouches d'ancres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.addCartouche.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.exe
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.deps.json
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.runtimeconfig.json
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.AssemblyReference.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.addCartouche.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.addImpriante.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.container.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.etage.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Form1.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionChangementCartouches.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionLivraison.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.histoLivraison.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Historique.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionSalle.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionBase.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Properties.Resources.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Recap.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.GenerateResource.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfoInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfo.cs
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CoreCompileInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\refint\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.genruntimeconfig.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\ref\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.AssemblyReference.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.addCartouche.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.addImpriante.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.container.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.etage.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Form1.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionChangementCartouches.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionLivraison.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.histoLivraison.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Historique.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionSalle.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionBase.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Properties.Resources.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Recap.resources
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.GenerateResource.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfoInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfo.cs
+C:\Users\fardoux.steven\Desktop\Gestion des cartouches d'encres - Copie (2)\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CoreCompileInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.exe
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.deps.json
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.runtimeconfig.json
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.exe
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Class.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Class.pdb
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.pdb
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.AssemblyReference.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.addImpriante.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.container.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Form1.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionChangementCartouches.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionLivraison.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionParc.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.histoLivraison.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Historique.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionSalle.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionRecap.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.pop_upbd.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Properties.Resources.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Recap.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.GenerateResource.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfoInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfo.cs
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CoreCompileInputs.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CopyComplete
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\refint\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.deps.json
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.runtimeconfig.json
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.genruntimeconfig.cache
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\ref\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.modifInfo.resources
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\MySqlBackup.dll
+C:\Users\fardoux.steven\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionStock.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.deps.json
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.runtimeconfig.json
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.exe
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.exe
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.deps.json
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.runtimeconfig.json
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\MySqlBackup.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Class.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Class.pdb
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.pdb
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.addImpriante.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.container.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.empreint.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Form1.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionChangementCartouches.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionLivraison.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionParc.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionStock.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.histoLivraison.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Historique.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionSalle.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionRecap.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.modifInfo.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.pop_upbd.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Properties.Resources.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Recap.resources
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfo.cs
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CopyComplete
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\refint\Gestion des cartouches d'ancres.dll
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.genruntimeconfig.cache
+C:\Users\User\Desktop\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\ref\Gestion des cartouches d'ancres.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.deps.json
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.runtimeconfig.json
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.exe
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.exe
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.deps.json
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.runtimeconfig.json
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\ZstdNet.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\MySqlBackup.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Class.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Class.pdb
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.pdb
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.AssemblyReference.cache
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.addImpriante.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.container.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.empreint.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Form1.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionChangementCartouches.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionLivraison.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionParc.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionStock.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.histoLivraison.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Historique.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionSalle.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionRecap.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.modifInfo.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.pop_upbd.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Properties.Resources.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Recap.resources
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.GenerateResource.cache
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfoInputs.cache
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfo.cs
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CoreCompileInputs.cache
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CopyComplete
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\refint\Gestion des cartouches d'ancres.dll
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.genruntimeconfig.cache
+E:\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\ref\Gestion des cartouches d'ancres.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.deps.json
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.runtimeconfig.json
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.exe
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.exe
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.deps.json
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.runtimeconfig.json
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\MySqlBackup.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Class.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\Class.pdb
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\bin\Debug\net6.0-windows\DataBase.pdb
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.AssemblyReference.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.addImpriante.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.container.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.empreint.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Form1.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionChangementCartouches.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionLivraison.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionParc.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.gestionStock.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.histoLivraison.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Historique.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionSalle.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.ImpressionRecap.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.modifInfo.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.pop_upbd.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Properties.Resources.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion_des_cartouches_d_ancres.Recap.resources
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.GenerateResource.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfoInputs.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.AssemblyInfo.cs
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CoreCompileInputs.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.csproj.CopyComplete
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\refint\Gestion des cartouches d'ancres.dll
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.pdb
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\Gestion des cartouches d'ancres.genruntimeconfig.cache
+D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d'ancres\obj\Debug\net6.0-windows\ref\Gestion des cartouches d'ancres.dll
