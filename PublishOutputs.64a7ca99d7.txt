@@ -1,0 +1,5 @@
+C:\Users\fardoux.steven\Desktop\Gestionnaire des Cartouches\Gestion des cartouches d'ancres.exe
+C:\Users\fardoux.steven\Desktop\Gestionnaire des Cartouches\Gestion des cartouches d'ancres.dll
+C:\Users\fardoux.steven\Desktop\Gestionnaire des Cartouches\Gestion des cartouches d'ancres.deps.json
+C:\Users\fardoux.steven\Desktop\Gestionnaire des Cartouches\Gestion des cartouches d'ancres.runtimeconfig.json
+C:\Users\fardoux.steven\Desktop\Gestionnaire des Cartouches\Gestion des cartouches d'ancres.pdb

@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\DataBase.exe
+C:\Users\User\Desktop\Gestion des cartouches d'ancres.exe
+C:\Users\User\Desktop\DataBase.deps.json
+C:\Users\User\Desktop\DataBase.runtimeconfig.json
+C:\Users\User\Desktop\Gestion des cartouches d'ancres.dll
+C:\Users\User\Desktop\Gestion des cartouches d'ancres.deps.json
+C:\Users\User\Desktop\Gestion des cartouches d'ancres.runtimeconfig.json
+C:\Users\User\Desktop\Gestion des cartouches d'ancres.pdb
+C:\Users\User\Desktop\Google.Protobuf.dll
+C:\Users\User\Desktop\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\MySql.Data.dll
+C:\Users\User\Desktop\ZstdNet.dll
+C:\Users\User\Desktop\MySqlBackup.dll
+C:\Users\User\Desktop\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Class.dll
+C:\Users\User\Desktop\DataBase.dll
+C:\Users\User\Desktop\Class.pdb
+C:\Users\User\Desktop\DataBase.pdb

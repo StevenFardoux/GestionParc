@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Bureau\Cours\Stage\SIO2\Gestion Imprimante\Gestion des cartouches d%27ancres\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="addImpriante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="container.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="empreint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gestionChangementCartouches.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gestionLivraison.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gestionParc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gestionStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="histoLivraison.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Historique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImpressionDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImpressionRecap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modifInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pop-upbd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Recap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
